@@ -1,6 +1,8 @@
 # Gradinet Generator
 This repo can Generate random gradient for you and It can copy to clipboard with one click
 
+Live demo : https://zaselalk.github.io/gradient-generator/
+
 ![Image of Yaktocat](https://i.imgur.com/2ZdQ7HN.gif)
 
 **Features**
