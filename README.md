@@ -6,7 +6,7 @@ Live demo : https://zaselalk.github.io/gradient-generator/
 ![Image of Yaktocat](https://i.imgur.com/2ZdQ7HN.gif)
 
 **Features**
-* Esay to suffle You can use "Space" Button to get quickly results
+* Easy to shuffle You can use the "Space" Button to get quick results
 * You can copy code within one click - Just Click on Code
 * Paste Anyware
 
